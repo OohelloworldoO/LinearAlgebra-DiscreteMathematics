@@ -12,4 +12,4 @@
 P(n)->P(n+1)->P(n+2)....P(k)  
 prove P(k+1)
 
-## Foundation
+## Mathematics Foundation
