@@ -2,7 +2,8 @@
 
 LinearAlgebra-DiscreteMathematics
 
-| Date |    進度     |
-| :--: | :---------: |
-| 7/1  | DM ch1 done |
-| 7/2  |   DM ch2    |
+| Date |     進度      |
+| :--: | :-----------: |
+| 7/1  |  DM~ch1 done  |
+| 7/2  | DM~ch2 LA~ch2 |
+| 7/3  |               |
