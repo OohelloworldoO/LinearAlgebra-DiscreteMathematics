@@ -17,3 +17,4 @@ LinearAlgebra-DiscreteMathematics
 | 7/13 |    LA ch4-2    |
 | 7/14 |    LA ch4-5    |
 | 7/15 |  LA 上冊 done  |
+| 7/17 |   LA ch 5-3    |
